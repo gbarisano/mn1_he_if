@@ -1,5 +1,4 @@
-"Lensing": {"Group": "H&E", "Rad": 100}
-{"Images": [{"Name": "i0", "Description": "", "Path": "images/mn1-20260522-135256_if_ds8", "Width": 11493, "Height": 17110, "MaxLevel": 0}], "Header": "", "Rotation": 0, "Layout": {"Grid": [["i0"]]}, "Stories": [{"Name": "", "Description": "", "Waypoints": []}], "Channels": [{"Rendered": false, "Name": "PanCK", "Path": "PanCK_0__PanCK"}, {"Rendered": false, "Name": "Membrane", "Path": "Membrane_2__Membrane"}, {"Rendered": false, "Name": "CD45", "Path": "CD45_3__CD45"}, {"Rendered": false, "Name": "DAPI", "Path": "DAPI_4__DAPI"}, {"Rendered": false, "Name": "CD68", "Path": "CD68_1__CD68"}, {
+{"Lensing": {"Group": "H&E", "Rad": 100}, "Images": [{"Name": "i0", "Description": "", "Path": "images/mn1-20260522-135256_if_ds8", "Width": 11493, "Height": 17110, "MaxLevel": 0}], "Header": "", "Rotation": 0, "Layout": {"Grid": [["i0"]]}, "Stories": [{"Name": "", "Description": "", "Waypoints": []}], "Channels": [{"Rendered": false, "Name": "PanCK", "Path": "PanCK_0__PanCK"}, {"Rendered": false, "Name": "Membrane", "Path": "Membrane_2__Membrane"}, {"Rendered": false, "Name": "CD45", "Path": "CD45_3__CD45"}, {"Rendered": false, "Name": "DAPI", "Path": "DAPI_4__DAPI"}, {"Rendered": false, "Name": "CD68", "Path": "CD68_1__CD68"}, {
   "Rendered": true, "Name": "Hematoxylin", "Path": "HE-0_0__HE"
 },
 {
